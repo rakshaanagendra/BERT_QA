@@ -1,0 +1,54 @@
+
+---
+
+```gitignore
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environment ----
+venv/
+env/
+.venv/
+
+# ---- Jupyter / notebooks ----
+.ipynb_checkpoints/
+
+# ---- System files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+logs/
+mlruns/
+mlflow.db
+
+# ---- Cache ----
+*.cache/
+.cache/
+*.bak
+
+# ---- Model artifacts ----
+*.pt
+*.bin
+*.zip
+*.h5
+*.onnx
+
+# ---- IDE files ----
+.vscode/
+.idea/
+
+# ---- Build ----
+build/
+dist/
+*.egg-info/
+
+# ---- Temporary ----
+tmp/
+temp/
+*.tmp
