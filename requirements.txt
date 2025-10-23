@@ -1,0 +1,11 @@
+transformers
+datasets
+torch
+evaluate
+# Optional: improves HF Xet storage performance on some systems
+huggingface_hub[hf_xet]
+accelerate>=0.26.0
+mlflow
+fastapi
+uvicorn
+pandas
