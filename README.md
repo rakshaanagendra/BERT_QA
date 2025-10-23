@@ -17,8 +17,10 @@ It can answer questions based on a given context paragraph, deployed through a *
 
 **Example:**
 
-> **Question:** Who created Python?  
-> **Context:** Python was created by Guido van Rossum in 1991.  
+> **Question:** Who created Python?
+>   
+> **Context:** Python was created by Guido van Rossum in 1991.
+>   
 > **Answer:** Guido van Rossum ✅
 
 ---
